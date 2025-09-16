@@ -1,4 +1,7 @@
 # Aryan-Doke
+# Hi there, I'm Aryan Doke 👋
+## About Me  
+I’m Aryan, a passionate learner and developer who loves exploring the world of programming and technology. 
 Basic knowledge of  Java, Python, C.
 Android app maker
 Website Designer
